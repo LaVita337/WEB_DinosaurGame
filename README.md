@@ -18,4 +18,4 @@
 
 
 
-<img src="images/index.png" alt="" width="800" height="500">
+<img src="dinosaur/images/index.png" alt="" width="800" height="500">
